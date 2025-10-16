@@ -5,26 +5,30 @@ body{
     padding: 50px;
     background-color: cornsilk;
 }
+img{
+    width: 10%;
+    height: 20%;
+}
 p {
     font-style: italic;
     font-weight: bold;
     font-family: cursive;
     padding: 10px;
-    color:#bebe01
+    color:#000000
 }
 
 h1 {
-    color: #595901;
+    color: #FFD700;
         font-family: Helvetica;
 }
 
 h2 {
-    color:#717101;
+    color:#000000;
     font-family: 'Courier New', Courier, monospace, sans-serif;
 }
 
 button {
-    background-color: #5f5f00;
+    background-color: #000000;
     color: white;
     border: 2px solid black;
     padding: 10px 20px;
@@ -37,5 +41,5 @@ button {
 }
 
 button:hover {
-    background-color: #808000;}
+    background-color: #000000;}
     
